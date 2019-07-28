@@ -1,1 +1,1 @@
-# proxy_list_checker
+You can easily check your proxy list and create a clean proxy list.
